@@ -1,0 +1,32 @@
+#bkgrndcolor {
+  background-color: grey;
+}
+
+h4 {
+  color: white;
+  background-color: brown;
+  text-align: center;
+  width: 95%;
+  font-weight: 20px;
+  padding: 3px;
+  margin-left: 10px;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.tbl {
+  border: 3px solid black;
+  color: white;
+  margin: 10px;
+}
+
+.link {
+  text-align: center;
+  font-weight: bolder;
+  color: blue;
+}
+div {
+  margin: 0 25%;
+}
